@@ -1,4 +1,5 @@
-# Analog_devices_intern_2024
-## assigments 
-[] eng_fatma_amba_bus
-[] 2-eng_osama_PRBS
+# Analog Devices Intern 2024
+
+## Assignments
+- [ ] eng_fatma_amba_bus
+- [ ] eng_osama_PRBS

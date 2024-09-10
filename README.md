@@ -2,9 +2,8 @@
 
 ## Assignments
 - [ ] **Eng. Fatma** - AMBA Bus
-  - [ ] Milestone 1: Research AMBA Bus protocol
-  - [ ] Milestone 2: Implement initial design
-  - [ ] Milestone 3: Test and validate the design
-     
+  - [ ] Milestone 1: Master
+  - [ ] Milestone 2: Slave
+  - [ ] Milestone 3: integration
         
 - ✅ **Eng. Osama** - PRBS

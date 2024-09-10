@@ -2,4 +2,4 @@
 
 ## Assignments
 - [ ] **Eng. Fatma** - AMBA Bus
-- [x] **Eng. Osama** - PRBS
+- ✅ **Eng. Osama** - PRBS

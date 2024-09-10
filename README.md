@@ -1,4 +1,4 @@
 # Analog Devices Intern 2024
 
 ## Assignments
-- ✅ **Eng. Osama** - PRBS
+- ✅ **2-Eng. Osama** - PRBS

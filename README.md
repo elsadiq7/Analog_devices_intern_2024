@@ -6,4 +6,4 @@
   - [ ] Milestone 2: Slave
   - [ ] Milestone 3: integration
         
-- ✅ **Eng. Osama** - PRBS  [report] (https://github.com/elsadiq7/Analog_devices_intern_2024/blob/main/assignments/2-eng_osama_PRBS/report/reeport.md)
+- ✅ **Eng. Osama** - PRBS  [report](https://github.com/elsadiq7/Analog_devices_intern_2024/blob/main/assignments/2-eng_osama_PRBS/report/reeport.md)

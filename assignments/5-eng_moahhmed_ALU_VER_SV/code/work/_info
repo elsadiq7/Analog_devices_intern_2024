@@ -1,0 +1,450 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Way to  create brain/Courses/acedemica
+T_opt
+!s11d devices/session6/code/work create 1 devices/session6/code/work 1 create 
+Z1 !s11d to create 1 brain/Analog 1 create 
+Z2 !s11d devices/session6/code/work 1 1 intf 1 D:/Way 
+R1
+!s11d devices/session6/code/work test_pack 1 D:/Way 1 test_pack 
+R1
+R2
+R1
+!s11d devices/session6/code/work alu_env 1 D:/Way 1 alu_env 
+R1
+R2
+R1
+!s11d devices/session6/code/work alu_mnt 1 D:/Way 1 alu_mnt 
+R1
+!s11d brain/Analog devices/session6/code/work 1 intf 1 D:/Way 
+!s11d to create 0 
+!s11d alu_drv D:/Way 0 
+!s110 1726696356
+VZ_P@F:YK61YPYo^Y62X`A1
+04 2 4 work tb fast 0
+=1-845cf3c38d04-66eb4ba3-2be-11c4
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+valu
+Z4 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z5 !s110 1726696347
+!i10b 1
+!s100 LAW<S=3[<m[ZAe6Kkzool2
+Ia_aQ?[Qbo`_nMN=VhTBV^1
+S1
+Z6 dD:/Way to  create brain/Analog devices/session6/code
+w1726695355
+8D:/Way to  create brain/Analog devices/session6/code/alu.sv
+FD:/Way to  create brain/Analog devices/session6/code/alu.sv
+!i122 549
+L0 1 44
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z9 !s108 1726696347.000000
+!s107 D:/Way to  create brain/Analog devices/session6/code/alu.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/session6/code/alu.sv|
+!i113 0
+Z10 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+Xalu_drv
+Z11 !s115 intf
+R4
+Z12 DXx4 work 5 trans 0 22 I_Ag[ebgE4MDGi4H310^P3
+R5
+!i10b 1
+!s100 S5N<VXNPl9BEgnhN@cI4E2
+I2JI;jJh?=84:g2:hZTUc?3
+S1
+R6
+w1726696019
+8D:/Way to  create brain/Analog devices/session6/code/driver.sv
+FD:/Way to  create brain/Analog devices/session6/code/driver.sv
+!i122 551
+Z13 L0 1 0
+V2JI;jJh?=84:g2:hZTUc?3
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Way to  create brain/Analog devices/session6/code/driver.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/session6/code/driver.sv|
+!i113 0
+R10
+R3
+Xalu_env
+R11
+R4
+R12
+Z14 DXx4 work 7 alu_drv 0 22 2JI;jJh?=84:g2:hZTUc?3
+Z15 DXx4 work 7 alu_mnt 0 22 nB0XG7O4ZdGHeYML=F<HQ0
+Z16 DXx4 work 7 alu_scb 0 22 bhkL;fA:XLNO=EGB4_he^0
+R5
+!i10b 1
+!s100 DQ7cJP=V0FQ>9g8LkZRce1
+IT7<SlQ[FAnW2Be7lee0Nn2
+S1
+R6
+w1726696445
+8D:/Way to  create brain/Analog devices/session6/code/env.sv
+FD:/Way to  create brain/Analog devices/session6/code/env.sv
+!i122 552
+R13
+VT7<SlQ[FAnW2Be7lee0Nn2
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Way to  create brain/Analog devices/session6/code/env.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/session6/code/env.sv|
+!i113 0
+R10
+R3
+Xalu_mnt
+R11
+R4
+R12
+R5
+!i10b 1
+!s100 BCj0RHElKjFToLIET6^DH0
+I2@S]XaG6?L@:eg60E1W5S1
+S1
+R6
+w1726696341
+8D:/Way to  create brain/Analog devices/session6/code/moniter.sv
+FD:/Way to  create brain/Analog devices/session6/code/moniter.sv
+!i122 554
+R13
+V2@S]XaG6?L@:eg60E1W5S1
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Way to  create brain/Analog devices/session6/code/moniter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/session6/code/moniter.sv|
+!i113 0
+R10
+R3
+Xalu_scb
+R4
+R12
+R5
+!i10b 1
+!s100 g0GbO6;67c`=E4Lc2ZE^z2
+IbhkL;fA:XLNO=EGB4_he^0
+S1
+R6
+w1726696040
+Z17 8D:/Way to  create brain/Analog devices/session6/code/scoreboard.sv
+Z18 FD:/Way to  create brain/Analog devices/session6/code/scoreboard.sv
+!i122 555
+R13
+VbhkL;fA:XLNO=EGB4_he^0
+R8
+r1
+!s85 0
+31
+R9
+Z19 !s107 D:/Way to  create brain/Analog devices/session6/code/scoreboard.sv|
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/session6/code/scoreboard.sv|
+!i113 0
+R10
+R3
+Yintf
+R4
+R5
+!i10b 1
+!s100 A8ld@XWCB2fAc?AYYZdne0
+Ig93nhkbRj@hbHX`_;A_M53
+S1
+R6
+w1726695430
+8D:/Way to  create brain/Analog devices/session6/code/interface.sv
+FD:/Way to  create brain/Analog devices/session6/code/interface.sv
+!i122 553
+R13
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Way to  create brain/Analog devices/session6/code/interface.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/session6/code/interface.sv|
+!i113 0
+R10
+R3
+Xscoreboard_sv_unit
+R4
+R12
+!s110 1726692929
+VGnNShMRBU11k6g:J7SkUX3
+r1
+!s85 0
+!i10b 1
+!s100 gLhgT_i2idi`BbR^813RJ2
+IGnNShMRBU11k6g:J7SkUX3
+!i103 1
+S1
+R6
+w1726692674
+R17
+R18
+!i122 145
+R13
+R8
+31
+!s108 1726692929.000000
+R19
+R20
+!i113 0
+R10
+R3
+vtb
+R4
+R12
+R14
+Z21 DXx4 work 7 alu_mnt 0 22 2@S]XaG6?L@:eg60E1W5S1
+R16
+Z22 DXx4 work 7 alu_env 0 22 T7<SlQ[FAnW2Be7lee0Nn2
+Z23 DXx4 work 9 test_pack 0 22 U^n6WnY]zzd;1HTDmZfc50
+DXx4 work 18 test_bench_sv_unit 0 22 :?ISS1`Y6eh^WXl>=:zMi0
+R5
+R7
+r1
+!s85 0
+!i10b 1
+!s100 9oc3Y[YlW68[d;kan`I:k1
+IV]BM7Szh5k>KUj7;?D@4U3
+!s105 test_bench_sv_unit
+S1
+R6
+Z24 w1726695595
+Z25 8D:/Way to  create brain/Analog devices/session6/code/test_bench.sv
+Z26 FD:/Way to  create brain/Analog devices/session6/code/test_bench.sv
+!i122 557
+L0 5 35
+R8
+31
+R9
+Z27 !s107 D:/Way to  create brain/Analog devices/session6/code/test_bench.sv|
+Z28 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/session6/code/test_bench.sv|
+!i113 0
+R10
+R3
+Xtest
+R11
+R4
+R12
+Z29 DXx4 work 7 alu_drv 0 22 B7B]6:4ISAk>TUQUlZDFF2
+R15
+R16
+R22
+!s110 1726694908
+!i10b 1
+!s100 3QM=:Mo>@BgMLfh`fP_Vh3
+I9^SaZh`0OazQ`E1SbEQRi3
+S1
+R6
+w1726694629
+Z30 8D:/Way to  create brain/Analog devices/session6/code/test.sv
+Z31 FD:/Way to  create brain/Analog devices/session6/code/test.sv
+!i122 330
+Z32 L0 2 0
+V9^SaZh`0OazQ`E1SbEQRi3
+R8
+r1
+!s85 0
+31
+!s108 1726694908.000000
+Z33 !s107 D:/Way to  create brain/Analog devices/session6/code/test.sv|
+Z34 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/session6/code/test.sv|
+!i113 0
+R10
+R3
+Xtest_bench_sv_unit
+R4
+R12
+R14
+R21
+R16
+R22
+R23
+R5
+V:?ISS1`Y6eh^WXl>=:zMi0
+r1
+!s85 0
+!i10b 1
+!s100 H;<dP5g3j0Uk]^BmAlIQ71
+I:?ISS1`Y6eh^WXl>=:zMi0
+!i103 1
+S1
+R6
+R24
+R25
+R26
+!i122 557
+R13
+R8
+31
+R9
+R27
+R28
+!i113 0
+R10
+R3
+Xtest_pack
+R11
+R4
+R12
+R14
+R21
+R16
+R22
+R5
+!i10b 1
+!s100 X8Ca4<3LcYEMQGBFhbK0c2
+IU^n6WnY]zzd;1HTDmZfc50
+S1
+R6
+w1726695188
+R30
+R31
+!i122 556
+R32
+VU^n6WnY]zzd;1HTDmZfc50
+R8
+r1
+!s85 0
+31
+R9
+R33
+R34
+!i113 0
+R10
+R3
+Xtest_sv_unit
+R11
+R4
+R12
+R29
+R15
+R16
+R22
+!s110 1726694592
+V3LRi`MAHVdTT?Ahm8Q;Ke1
+r1
+!s85 0
+!i10b 1
+!s100 XdkE^=T4AQOK`;`NQbnbH0
+I3LRi`MAHVdTT?Ahm8Q;Ke1
+!i103 1
+S1
+R6
+w1726694588
+R30
+R31
+!i122 239
+R13
+R8
+31
+!s108 1726694592.000000
+R33
+R34
+!i113 0
+R10
+R3
+vtop
+R4
+R5
+!i10b 1
+!s100 >^N>AM]ZkPaeclHz1[6DH3
+IIK^D9KC4H6^=`zX8_j87l2
+S1
+R6
+w1726685120
+8D:/Way to  create brain/Analog devices/session6/code/alu_tb.sv
+FD:/Way to  create brain/Analog devices/session6/code/alu_tb.sv
+!i122 550
+L0 1 37
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Way to  create brain/Analog devices/session6/code/alu_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/session6/code/alu_tb.sv|
+!i113 0
+R10
+R3
+Xtrans
+R4
+R5
+!i10b 1
+!s100 4Ja^P?PKMd02:V`aVC[LN0
+II_Ag[ebgE4MDGi4H310^P3
+S1
+R6
+w1726694007
+Z35 8D:/Way to  create brain/Analog devices/session6/code/Transcation_object.sv
+Z36 FD:/Way to  create brain/Analog devices/session6/code/Transcation_object.sv
+!i122 558
+R13
+VI_Ag[ebgE4MDGi4H310^P3
+R8
+r1
+!s85 0
+31
+R9
+Z37 !s107 D:/Way to  create brain/Analog devices/session6/code/Transcation_object.sv|
+Z38 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/session6/code/Transcation_object.sv|
+!i113 0
+R10
+R3
+XTranscation_object_sv_unit
+R4
+!s110 1726690323
+VZ;j:giF>o3Bg1zJ=:Vh;h3
+r1
+!s85 0
+!i10b 1
+!s100 LdBZ[SjCHXXHNWC6[R<zm1
+IZ;j:giF>o3Bg1zJ=:Vh;h3
+!i103 1
+S1
+R6
+w1726688421
+R35
+R36
+!i122 102
+R13
+R8
+31
+!s108 1726690323.000000
+R37
+R38
+!i113 0
+R10
+R3
+n@transcation_object_sv_unit

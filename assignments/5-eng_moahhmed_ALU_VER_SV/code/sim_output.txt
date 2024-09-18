@@ -1,0 +1,49 @@
+ ** Warning: (vsim-PLI-3826) $dumpfile : This task should be called prior to the $dumpvars
+# task.  The $dumpfile task will be ignored.
+#    Time: 0 ns  Iteration: 0  Process: /tb/#INITIAL#35 File: D:/Way to  create brain/Analog devices/session6/code/test_bench.sv Line: 37
+# T=20 [Test] Starting stimulus ...
+# T:20 [Driver] starting ...
+# T=20 [monitor] starting ...
+# T:20 [Driver] waiting for item ...
+# Driver: reset_n=1, op_code=00, A=  5, B=  3, C=  0, overflow=0
+# monitor: reset_n=1, op_code=00, A=  5, B=  3, C=  7, overflow=0
+# Match: op_code=00, A=  5, B=  3, C=  7, overflow=0
+# T:40 [Driver] waiting for item ...
+# Driver: reset_n=1, op_code=01, A=  5, B=  3, C=  0, overflow=0
+# monitor: reset_n=1, op_code=01, A=  5, B=  3, C=  1, overflow=0
+# Match: op_code=01, A=  5, B=  3, C=  1, overflow=0
+# T:60 [Driver] waiting for item ...
+# Driver: reset_n=1, op_code=10, A=  7, B=  1, C=  0, overflow=0
+# monitor: reset_n=1, op_code=10, A=  7, B=  1, C= -8, overflow=1
+# Match: op_code=10, A=  7, B=  1, C= -8, overflow=1
+# T:80 [Driver] waiting for item ...
+# Driver: reset_n=1, op_code=11, A=  7, B=  1, C=  0, overflow=0
+# monitor: reset_n=1, op_code=11, A=  7, B=  1, C=  6, overflow=0
+# Match: op_code=11, A=  7, B=  1, C=  6, overflow=0
+# T:100 [Driver] waiting for item ...
+# Driver: reset_n=1, op_code=10, A=  7, B=  7, C=  0, overflow=0
+run
+# monitor: reset_n=1, op_code=10, A=  7, B=  7, C= -2, overflow=1
+# Match: op_code=10, A=  7, B=  7, C= -2, overflow=1
+# T:120 [Driver] waiting for item ...
+# Driver: reset_n=1, op_code=11, A= -8, B=  7, C=  0, overflow=0
+# monitor: reset_n=1, op_code=11, A= -8, B=  7, C=  1, overflow=1
+# Match: op_code=11, A= -8, B=  7, C=  1, overflow=1
+# T:140 [Driver] waiting for item ...
+# monitor: reset_n=1, op_code=11, A= -8, B=  7, C=  1, overflow=1
+# Match: op_code=11, A= -8, B=  7, C=  1, overflow=1
+# monitor: reset_n=1, op_code=11, A= -8, B=  7, C=  1, overflow=1
+# Match: op_code=11, A= -8, B=  7, C=  1, overflow=1
+# monitor: reset_n=1, op_code=11, A= -8, B=  7, C=  1, overflow=1
+# Match: op_code=11, A= -8, B=  7, C=  1, overflow=1
+run
+# monitor: reset_n=1, op_code=11, A= -8, B=  7, C=  1, overflow=1
+# Match: op_code=11, A= -8, B=  7, C=  1, overflow=1
+# monitor: reset_n=1, op_code=11, A= -8, B=  7, C=  1, overflow=1
+# Match: op_code=11, A= -8, B=  7, C=  1, overflow=1
+# monitor: reset_n=1, op_code=11, A= -8, B=  7, C=  1, overflow=1
+# Match: op_code=11, A= -8, B=  7, C=  1, overflow=1
+# monitor: reset_n=1, op_code=11, A= -8, B=  7, C=  1, overflow=1
+# Match: op_code=11, A= -8, B=  7, C=  1, overflow=1
+# ** Note: $finish    : D:/Way to  create brain/Analog devices/session6/code/test_bench.sv(30)
+#    Time: 280 ns  Iteration: 0  Instance: /tb

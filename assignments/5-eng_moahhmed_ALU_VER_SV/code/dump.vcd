@@ -1,0 +1,43 @@
+$date
+	Thu Sep 19 00:52:52 2024
+$end
+$version
+	QuestaSim Version 2021.1
+$end
+$timescale
+	1ns
+$end
+
+$scope module tb $end
+
+$scope module dut $end
+$upscope $end
+$upscope $end
+
+$scope begin trans $end
+$upscope $end
+
+$scope begin alu_scb $end
+$upscope $end
+
+$scope begin alu_mnt $end
+$upscope $end
+
+$scope begin alu_drv $end
+$upscope $end
+
+$scope begin alu_env $end
+$upscope $end
+
+$scope begin test_pack $end
+$upscope $end
+
+$scope begin test_bench_sv_unit $end
+$upscope $end
+
+$scope begin std $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+$end

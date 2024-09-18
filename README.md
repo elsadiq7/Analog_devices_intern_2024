@@ -19,6 +19,6 @@
 - [FIR Modeling](https://github.com/elsadiq7/Analog_devices_intern_2024/tree/main/assignments/4-eng_reem_FIR/FIR_modeling)
 - [HDL](https://github.com/elsadiq7/Analog_devices_intern_2024/tree/main/assignments/4-eng_reem_FIR/HDL)
 
-### ✅ **Eng.eng-mohamed ** - ALU-verification
+### ✅ **Eng.eng-mohamed** - ALU-verification
 - [HDL](https://github.com/elsadiq7/Analog_devices_intern_2024/tree/main/assignments/5-eng_moahhmed_ALU_VER_SV/code)
 - [verification-plan](https://github.com/elsadiq7/Analog_devices_intern_2024/blob/main/assignments/5-eng_moahhmed_ALU_VER_SV/Verification%20PLan/plan.md) 

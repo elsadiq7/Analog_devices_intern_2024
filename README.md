@@ -20,5 +20,6 @@
 - [HDL](https://github.com/elsadiq7/Analog_devices_intern_2024/tree/main/assignments/4-eng_reem_FIR/HDL)
 
 ### ✅ **Eng.eng-mohamed** - ALU-verification
-- [HDL](https://github.com/elsadiq7/Analog_devices_intern_2024/tree/main/assignments/5-eng_moahhmed_ALU_VER_SV/code)
-- [verification-plan](https://github.com/elsadiq7/Analog_devices_intern_2024/blob/main/assignments/5-eng_moahhmed_ALU_VER_SV/Verification%20PLan/plan.md) 
+- [verification-plan](https://github.com/elsadiq7/Analog_devices_intern_2024/blob/main/assignments/5-eng_moahhmed_ALU_VER_SV/Verification%20PLan/plan.md)
+- [System_verliog](https://github.com/elsadiq7/Analog_devices_intern_2024/tree/main/assignments/5-eng_moahhmed_ALU_VER_SV/HDL_TBinSV)
+- [Coco_TB](https://github.com/elsadiq7/Analog_devices_intern_2024/tree/main/assignments/5-eng_moahhmed_ALU_VER_SV/COCO_TB)

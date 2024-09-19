@@ -1,0 +1,1 @@
+s1(19Sep2024:15:55:53):  xrun -timescale 1ns/1ps -licqueue -64 -xmlibdirpath sim_build -plinowarn -top top -loadvpi /usr/local/lib64/python3.6/site-packages/cocotb/libs/libcocotbvpi_ius.so:vlog_startup_routines_bootstrap -access +rwc -createdebugdb /home/runner/design.sv /home/runner/top.sv 

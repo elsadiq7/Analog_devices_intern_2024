@@ -1,0 +1,24 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-XLMODE
+sim_build/xcelium.d/run.lnx8664.23.09.d
+-RUNMODE
+-amsdlibdir
+sim_build/xcelium.d/AMSD
+-XMLIBDIRPATH
+sim_build
+/home/runner/design.sv
+/home/runner/top.sv
+-CDSLIB
+sim_build/xcelium.d/run.lnx8664.23.09.d/cdsrun.lib
+-HDLVAR
+sim_build/xcelium.d/run.lnx8664.23.09.d/hdlrun.var
+-no_analogsolver
+-MESSAGES
+-UPDATE
+-XLLIBSTORE
+sim_build/xcelium.d/run.lnx8664.23.09.d/xllibs
+-ALLOWUNBOUND
+-hastop

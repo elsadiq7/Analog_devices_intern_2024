@@ -1,0 +1,59 @@
+xrun(64): 23.09-s001: (c) Copyright 1995-2023 Cadence Design Systems, Inc.
+TOOL:	xrun(64)	23.09-s001: Started on Sep 19, 2024 at 15:55:53 EDT
+xrun
+	-timescale 1ns/1ps
+	-licqueue
+	-64
+	-xmlibdirpath sim_build
+	-plinowarn
+	-top top
+	-loadvpi /usr/local/lib64/python3.6/site-packages/cocotb/libs/libcocotbvpi_ius.so:vlog_startup_routines_bootstrap
+	-access +rwc
+	-createdebugdb
+	/home/runner/design.sv
+	/home/runner/top.sv
+file: /home/runner/design.sv
+	module worklib.alu:sv
+		errors: 0, warnings: 0
+file: /home/runner/top.sv
+	module worklib.top:sv
+		errors: 0, warnings: 0
+	Elaborating the design hierarchy:
+		Caching library 'worklib' ....... Done
+	Top level design units:
+		top
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+		worklib.alu:sv <0x3560bf5b>
+			streams:   4, words:  2328
+		worklib.top:sv <0x11eaeda2>
+			streams:   6, words:   965
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Generating Debug Data:
+		LWD Database path: (/home/runner/sim_build/xcelium.d/worklib/top/sv/debug_db/top)
+		Power Aware Instances:                    0
+		Liberty Instances:                        0
+		Out Of Module References:                 0
+		Assertions:                               0
+		Liberty Information:
+			PG Pins:	                  0
+			Liberty Pins:	                  0
+	Design hierarchy summary:
+		                 Instances  Unique
+		Modules:                 2       2
+		Registers:               9       9
+		Scalar wires:            3       -
+		Vectored wires:          4       -
+		Always blocks:           2       2
+		Initial blocks:          1       1
+		Pseudo assignments:      5       -
+		Process Clocks:          1       1
+		Simulation timescale:  1ps
+	Writing initial simulation snapshot: worklib.top:sv
+Loading snapshot worklib.top:sv .................... Done
+xcelium> source /xcelium23.09/tools/xcelium/files/xmsimrc
+xcelium> run
+Simulation complete via $finish(1) at time 12000001 PS + 0
+xcelium> exit
+TOOL:	xrun(64)	23.09-s001: Exiting on Sep 19, 2024 at 15:55:56 EDT  (total: 00:00:03)

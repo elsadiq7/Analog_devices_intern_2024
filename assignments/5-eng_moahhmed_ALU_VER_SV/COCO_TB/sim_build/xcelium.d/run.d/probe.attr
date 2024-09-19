@@ -1,0 +1,16 @@
+lwd_dir /home/runner/sim_build/xcelium.d/worklib/top/sv/debug_db/top/../..
+snapshot_name worklib.top:sv
+cells 1
+hostname 195ce9d0dcc0
+work_directory /home/runner
+autofetch 0
+persistent_sources 0
+cdslib sim_build/xcelium.d/run.lnx8664.23.09.d/cds.lib
+cds_implicit_tmplib worklib
+hdlvar sim_build/xcelium.d/run.lnx8664.23.09.d/hdl.var
+platform x86_64
+bits 64
+du-agent YES
+xprop 0
+automsie 0
+cds_libs /home/runner/sim_build/xcelium.d/run.lnx8664.23.09.d/cds.lib /home/runner/sim_build/xcelium.d/run.lnx8664.23.09.d/cdsrun.lib /xcelium23.09/tools/inca/files/cds.lib /xcelium23.09/tools/inca/files/cdsvhdl.lib /xcelium23.09/tools/inca/files/cdsvlog.lib /xcelium23.09/tools/transrecord/files/cds.lib

@@ -1,0 +1,27 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-amsdlibdir
+sim_build/xcelium.d/AMSD
+-LICQUEUE
+-PLINOWARN
+-MESSAGES
++EMGRLOG
+xrun.log
+-XLSTIME
+1726775753
+-XLKEEP
+-XLMODE
+sim_build/xcelium.d/run.lnx8664.23.09.d
+-RUNMODE
+-CDSLIB
+sim_build/xcelium.d/run.lnx8664.23.09.d/cds.lib
+-HDLVAR
+sim_build/xcelium.d/run.lnx8664.23.09.d/hdl.var
+-XLNAME
+xrun
+-XLVERSION
+"TOOL:	xrun(64)	23.09-s001"
+-XLNAME
+./sim_build/xcelium.d/run.lnx8664.23.09.d/195ce9d0dcc0_439e8db5-13bd-42f9-8d70-e2347b834d29

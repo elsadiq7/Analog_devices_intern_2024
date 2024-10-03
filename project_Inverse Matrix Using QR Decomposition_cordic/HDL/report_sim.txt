@@ -1,0 +1,132 @@
+ Test Case 1: Identity matrix
+# 
+# input Matrix
+# 
+# a=1.000000, b=0.000000, c=0.000000
+# 
+# d=0.000000, e_=1.000000, f=0.000000
+# 
+# g=0.000000, h=0.000000, i=1.000000
+# 
+# Result (Q ):
+# 
+# a_out_q=0.000000, b_out_q=0.000000, c_out_q=0.000000
+# 
+# d_out_q=0.000000, e_out_q=0.000000, f_out_q=0.000000
+# 
+# g_out_q=0.000000, h_out_q=0.000000, i_out_q=0.000000
+# 
+# Result (Q expected):
+# 
+# a_out_q=1.000000, b_out_q=0.000000, c_out_q=0.000000
+# 
+# d_out_q=0.000000, e_out_q=1.000000, f_out_q=0.000000
+# 
+# g_out_q=0.000000, h_out_q=0.000000, i_out_q=1.000000
+# ** Error: 
+# Test Case 1 @195: Identity Matrix failed for Q
+#    Time: 195 ns  Scope: tb_top File: D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition_tb.sv Line: 203
+# 
+# Result (R):
+# 
+# a_out_r=1.000000, b_out_r=0.000074, c_out_r=0.000074
+# 
+# d_out_r=0.000000, e_out_r=1.000000, f_out_r=-0.000074
+# 
+# g_out_r=0.000000, h_out_r=0.000000, i_out_r=1.000000
+# 
+# Result (R expected):
+# 
+# a_out_r=1.000000, b_out_r=0.000000, c_out_r=0.000000
+# 
+# d_out_r=0.000000, e_out_r=1.000000, f_out_r=0.000000
+# 
+# g_out_r=0.000000, h_out_r=0.000000, i_out_r=1.000000
+# 
+# Result (INV Matrix):
+# 
+# a=0.000000, b=0.000000, c=0.000000
+# 
+# d=0.000000, e=0.000000, f=0.000000
+# 
+# g=0.000000, h=0.000000, i=0.000000
+# 
+# Result (INV Matrix expected):
+# 
+# a=1.000000, b=0.000000, c=0.000000
+# 
+# d=0.000000, e=1.000000, f=0.000000
+# 
+# g=0.000000, h=0.000000, i=1.000000
+# ** Error: 
+# Test Case 1 @220: Identity Matrix failed for inversion
+#    Time: 220 ns  Scope: tb_top File: D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition_tb.sv Line: 257
+# 
+# Test Case 1: Identity matrix
+# 
+# input Matrix
+# 
+# a=1.000000, b=2.000000, c=3.000000
+# 
+# d=2.000000, e_=1.000000, f=1.000000
+# 
+# g=6.000000, h=0.000000, i=1.000000
+# 
+# Result (Q ):
+# 
+# a_out_q=0.000000, b_out_q=0.000000, c_out_q=0.000000
+# 
+# d_out_q=0.000000, e_out_q=0.000000, f_out_q=0.000000
+# 
+# g_out_q=0.000000, h_out_q=0.000000, i_out_q=0.000000
+# 
+# Result (Q expected):
+# 
+# a_out_q=-0.156174, b_out_q=-0.886078, c_out_q=-0.436436
+# 
+# d_out_q=-0.312347, e_out_q=-0.374879, f_out_q=0.872872
+# 
+# g_out_q=-0.937043, h_out_q=0.272639, i_out_q=-0.218218
+# ** Error: 
+# Test Case 2 @235: Arbitrary Matrix failed for Q
+#    Time: 235 ns  Scope: tb_top File: D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition_tb.sv Line: 334
+# 
+# Result (R):
+# 
+# a_out_r=1.000000, b_out_r=0.000074, c_out_r=0.000074
+# 
+# d_out_r=0.000000, e_out_r=1.000000, f_out_r=-0.000074
+# 
+# g_out_r=0.000000, h_out_r=0.000000, i_out_r=1.000000
+# 
+# Result (R expected):
+# 
+# a_out_r=-6.403124, b_out_r=-0.624695, c_out_r=-1.717911
+# 
+# d_out_r=0.000000, e_out_r=-2.147034, f_out_r=-2.760473
+# 
+# g_out_r=0.000000, h_out_r=0.000000, i_out_r=-0.654654
+# ** Error: 
+# Test Case 2 @235: Arbitrary Matrix failed for R
+#    Time: 235 ns  Scope: tb_top File: D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition_tb.sv Line: 363
+# 
+# Result (INV Matrix):
+# 
+# a=0.000000, b=0.000000, c=0.000000
+# 
+# d=0.000000, e=0.000000, f=0.000000
+# 
+# g=0.000000, h=0.000000, i=0.000000
+# 
+# Result (INV Matrix expected):
+# 
+# a=-0.111111, b=0.222222, c=0.111111
+# 
+# d=-0.444444, e=1.888889, f=-0.555556
+# 
+# g=0.666667, h=-1.333333, i=0.333333
+# ** Error: 
+# Test Case 1 @260: Identity Matrix failed for inversion
+#    Time: 260 ns  Scope: tb_top File: D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition_tb.sv Line: 388
+# Number of passed cases:1
+# Number of failed cases:5

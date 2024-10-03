@@ -1,0 +1,317 @@
+m255
+K4
+z2
+Z0 !s12c _opt2
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+Z2 !s12c _opt1
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+!s12c _opt
+R1
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z3 dC:/Users/abdul/Downloads/Video
+T_opt1
+!s110 1727865009
+VeYYQ[T1D0R?K]<8iTilWT2
+04 9 4 work tb_cordic fast 0
+=1-845cf3c38d04-66fd20b1-129-4b88
+R1
+Z4 !s12f OEM100
+Z5 !s12b OEM100
+Z6 !s124 OEM100
+Z7 o-quiet -auto_acc_if_foreign -work work
+Z8 tCvgOpt 0
+n@_opt1
+Z9 OL;O;2024.1;79
+R3
+T_opt2
+!s110 1727946739
+VJ@9<fZ3LPZ9ZJ?CPBhSQL3
+04 6 4 work tb_top fast 0
+=1-845cf3c38d04-66fe5ff2-233-6ec
+R1
+R4
+R5
+R6
+R7
+R8
+n@_opt2
+R9
+vcordic
+2D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic.sv
+Z10 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1727946732
+!i10b 1
+!s100 dL8AER:1YVWU>Uc4^jfzS2
+IoE2NFQfDD@Zc^YGLTPY]K0
+S1
+Z11 dD:/Way to  create brain/Analog devices/final_project/pythonProject/HDL
+w1727867705
+8D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic.sv
+FD:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic.sv
+!i122 267
+L0 1 103
+Z12 VDg1SIo80bB@j0V0VzS_@n1
+Z13 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z14 !s108 1727946732.000000
+!s107 D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic.sv|
+!i113 0
+Z15 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R8
+vqr_decomposition
+2D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition.sv
+R10
+Z16 !s110 1727946733
+!i10b 1
+!s100 kX_IOjN2Db;TjKF@1XGBe2
+Il=2fbP:A@:nLX7Pj:4fW?2
+S1
+R11
+w1727887577
+8D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition.sv
+FD:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition.sv
+!i122 269
+L0 1 327
+R12
+R13
+r1
+!s85 0
+31
+Z17 !s108 1727946733.000000
+!s107 D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition.sv|
+!i113 0
+R15
+R8
+vR_inversion
+2D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/R_inversion.sv
+R10
+R16
+!i10b 1
+!s100 ]QJMmWMRkSGmjH]TTz@o>3
+IW[>e1EQKaYdbIOM8;SGi32
+S1
+R11
+w1727890078
+8D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/R_inversion.sv
+FD:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/R_inversion.sv
+!i122 272
+L0 1 137
+R12
+R13
+r1
+!s85 0
+31
+R17
+!s107 D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/R_inversion.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/R_inversion.sv|
+!i113 0
+R15
+R8
+n@r_inversion
+vtb_cordic
+2D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic_TB.SV
+R10
+R16
+!i10b 1
+!s100 FMXmIl65l37]2:lFhRi7[1
+IHDYD5Qm9c3_lP[>;lF64a2
+S1
+R11
+w1727867515
+8D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic_TB.SV
+FD:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic_TB.SV
+!i122 268
+L0 1 178
+R12
+R13
+r1
+!s85 0
+31
+R14
+!s107 D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic_TB.SV|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic_TB.SV|
+!i113 0
+R15
+R8
+vtb_top
+2D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition_tb.sv
+R10
+R16
+!i10b 1
+!s100 h5:CIzU[aHK]YF3Kg7Cni2
+I`GaE^leEhLC;N5`7<?Qjz0
+S1
+R11
+w1727890102
+8D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition_tb.sv
+FD:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition_tb.sv
+!i122 270
+L0 1 398
+R12
+R13
+r1
+!s85 0
+31
+R17
+!s107 D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition_tb.sv|
+!i113 0
+R15
+R8
+vtop
+2D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/top.sv
+R10
+R16
+!i10b 1
+!s100 >fNA7;@0R<>aRmS7?5F<G0
+I^hj>hcGjl^I@kh43P>Z8H0
+S1
+R11
+w1727946712
+8D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/top.sv
+FD:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/top.sv
+!i122 271
+L0 1 102
+R12
+R13
+r1
+!s85 0
+31
+R17
+!s107 D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/top.sv|
+!i113 0
+R15
+R8

@@ -1,0 +1,44 @@
+{D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/top.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/top.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module qr_decomposition
+
+Top level modules:
+	qr_decomposition
+
+} {} {}} {D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module cordic
+
+Top level modules:
+	cordic
+
+} {} {}} {D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/qr_decomposition_tb.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module tb_top
+
+Top level modules:
+	tb_top
+
+} {} {}} {D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic_TB.SV} {1 {vlog -work work -vopt -sv -stats=none {D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/cordic_TB.SV}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module tb_cordic
+
+Top level modules:
+	tb_cordic
+
+} {} {}} {D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/R_inversion.sv} {2 {vlog -work work -vopt -sv -stats=none {D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/R_inversion.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module R_inversion
+** Warning: D:/Way to  create brain/Analog devices/final_project/pythonProject/HDL/R_inversion.sv(8): (vlog-13314) Defaulting port 'Q' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+
+Top level modules:
+	R_inversion
+
+} {} {}}

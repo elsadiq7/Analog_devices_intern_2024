@@ -4,7 +4,7 @@
 - [Python modeling](https://github.com/elsadiq7/Analog_devices_intern_2024/tree/main/project_Inverse%20Matrix%20Using%20QR%20Decomposition_cordic/python_modeling)
 - [HDL](https://github.com/elsadiq7/Analog_devices_intern_2024/tree/main/project_Inverse%20Matrix%20Using%20QR%20Decomposition_cordic/HDL)
 
-##✅ **Assignments**
+## **Assignments**
 
 ### ✅ **Eng.Osama** - PRBS  
 - [Report](https://github.com/elsadiq7/Analog_devices_intern_2024/blob/main/assignments/2-eng_osama_PRBS/report/reeport.md)

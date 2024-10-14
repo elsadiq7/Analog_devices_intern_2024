@@ -1,4 +1,5 @@
 # **Analog Devices Intern 2024**
+![Internship Certificate](https://github.com/elsadiq7/Analog_devices_intern_2024/blob/main/certifcate.jpg)
 ## ✅**Final Project (Inverse Matrix Using QR Decomposition cordic)**
 - [report](https://github.com/elsadiq7/Analog_devices_intern_2024/blob/main/project_Inverse%20Matrix%20Using%20QR%20Decomposition_cordic/resources/report.pdf)
 - [Python modeling](https://github.com/elsadiq7/Analog_devices_intern_2024/tree/main/project_Inverse%20Matrix%20Using%20QR%20Decomposition_cordic/python_modeling)
